@@ -1,0 +1,14 @@
+{
+    "name": "TEST TOKEN",
+    "symbol": "PENIS",
+    "description": "Test description",
+    "seller_fee_basis_points": 0,
+    "image": "https://asset.cloudinary.com/dj9wkjb3n/20967bd59d788a908893ce89d503311d",
+    "external_url": "",
+    "properties": {
+        "category": "image",
+        "files": [
+            {}
+        ]
+    }
+}
